@@ -1,0 +1,34 @@
+[
+	{
+		"imgSrc":"../img/616.jpg",
+		"nav_name":"头痛发烧"
+	},
+	{
+		"imgSrc":"../img/617.jpg",
+		"nav_name":"感冒咳嗽"
+	},
+	{
+		"imgSrc":"../img/801.jpg",
+		"nav_name":"风寒感冒"
+	},
+	{
+		"imgSrc":"../img/804.jpg",
+		"nav_name":"风热感冒"
+	},
+	{
+		"imgSrc":"../img/805.jpg",
+		"nav_name":"流行性感冒"
+	},
+	{
+		"imgSrc":"../img/806.jpg",
+		"nav_name":"署湿感冒"
+	},
+	{
+		"imgSrc":"../img/616.jpg",
+		"nav_name":"止咳化痰"
+	},
+	{
+		"imgSrc":"../img/617.jpg",
+		"nav_name":"解热镇痛"
+	}
+]
